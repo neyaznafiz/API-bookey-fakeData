@@ -1,110 +1,110 @@
 [
-    {
-      "id": 101,
-      "name": "Red Rose Bookey",
-      "price": 255,
-      "ratings": 4.5,
-      "img": "./Images/red-rose.jpg",
-      "quantity": 0,
-      "delivery": 20
-    },
-    {
-      "id": 102,
-      "name": "Pink Rose Bookey",
-      "price": 305,
-      "ratings": 4.7,
-      "img": "./Images/pink-rosse-bookey.jpg",
-      "quantity": 0,
-      "delivery": 22
-    },
-    {
-      "id": 103,
-      "name": "Mix Flowers Bookey",
-      "price": 240,
-      "ratings": 4.6,
-      "img": "./Images/mix-flower-bookey.jpg",
-      "quantity": 0,
-      "delivery": 20
-    },
-    {
-      "id": 104,
-      "name": "Finest Flowers Bookey",
-      "price": 290,
-      "ratings": 4.9,
-      "img": "./Images/finest-flower-bookey.jpg",
-      "quantity": 0,
-      "delivery": 25
-    },
-    {
-      "id": 105,
-      "name": "Mix Pink Flower Bookey",
-      "price": 265,
-      "ratings": 4.5,
-      "img": "./Images/mix-pink-flower.jpg",
-      "quantity": 0,
-      "delivery": 20
-    },
-    {
-      "id": 106,
-      "name": "Special Rose Bookey",
-      "price": 270,
-      "ratings": 4.5,
-      "img": "./Images/Special-Rose-Bookey.jpg",
-      "quantity": 0,
-      "delivery": 30
-    },
-    {
-      "id": 107,
-      "name": "Tesco Finest Flowers Bookey",
-      "price": 299,
-      "ratings": 4.4,
-      "img": "./Images/Tesco-Finest-Flowers-Bookey.JPG",
-      "quantity": 0,
-      "delivery": 20
-    },
-    {
-      "id": 108,
-      "name": "Aesthetic Bookey",
-      "price": 359,
-      "ratings": 4.9,
-      "img": "./Images/aesthetic-bookey.jpg",
-      "quantity": 0,
-      "delivery": 30
-    },
-    {
-      "id": 109,
-      "name": "Mix Rose Bookey",
-      "price": 240,
-      "ratings": 4.3,
-      "img": "./Images/mix-rose-bookey.jpg",
-      "quantity": 0,
-      "delivery": 20
-    },
-    {
-      "id": 110,
-      "name": "Special Purple Bookey",
-      "price": 290,
-      "ratings": 4.8,
-      "img": "./Images/Special-Purple-bookey.jpg",
-      "quantity": 0,
-      "delivery": 20
-    },
-    {
-      "id": 111,
-      "name": "Pink Bookey",
-      "price": 399,
-      "ratings": 4.9,
-      "img": "./Images/Pink-Bookey.jpg",
-      "quantity": 0,
-      "delivery": 30
-    },
-    {
-      "id": 112,
-      "name": "White Rose Bookey",
-      "price": 289,
-      "ratings": 4.7,
-      "img": "./Images/White-Rose-Bookey.jpg",
-      "quantity": 0,
-      "delivery": 20
-    }
-  ]
+  {
+    "id": 101,
+    "name": "Red Rose Bookey",
+    "price": 255,
+    "ratings": 4.5,
+    "img": "./Images/red-rose.jpg",
+    "quantity": 0,
+    "delivery": 20
+  },
+  {
+    "id": 102,
+    "name": "Pink Rose Bookey",
+    "price": 305,
+    "ratings": 4.7,
+    "img": "./Images/pink-rosse-bookey.jpg",
+    "quantity": 0,
+    "delivery": 22
+  },
+  {
+    "id": 103,
+    "name": "Mix Flowers Bookey",
+    "price": 240,
+    "ratings": 4.6,
+    "img": "./Images/mix-flower-bookey.jpg",
+    "quantity": 0,
+    "delivery": 20
+  },
+  {
+    "id": 104,
+    "name": "Finest Flowers Bookey",
+    "price": 290,
+    "ratings": 4.9,
+    "img": "./Images/finest-flower-bookey.jpg",
+    "quantity": 0,
+    "delivery": 25
+  },
+  {
+    "id": 105,
+    "name": "Mix Pink Flower Bookey",
+    "price": 265,
+    "ratings": 4.5,
+    "img": "./Images/mix-pink-flower.jpg",
+    "quantity": 0,
+    "delivery": 20
+  },
+  {
+    "id": 106,
+    "name": "Special Rose Bookey",
+    "price": 270,
+    "ratings": 4.5,
+    "img": "./Images/Special-Rose-Bookey.jpg",
+    "quantity": 0,
+    "delivery": 30
+  },
+  {
+    "id": 107,
+    "name": "Tesco Finest Flowers Bookey",
+    "price": 299,
+    "ratings": 4.4,
+    "img": "./Images/Tesco-Finest-Flowers-Bookey.JPG",
+    "quantity": 0,
+    "delivery": 20
+  },
+  {
+    "id": 108,
+    "name": "Aesthetic Bookey",
+    "price": 359,
+    "ratings": 4.9,
+    "img": "./Images/aesthetic-bookey.jpg",
+    "quantity": 0,
+    "delivery": 30
+  },
+  {
+    "id": 109,
+    "name": "Mix Rose Bookey",
+    "price": 240,
+    "ratings": 4.3,
+    "img": "./Images/mix-rose-bookey.jpg",
+    "quantity": 0,
+    "delivery": 20
+  },
+  {
+    "id": 110,
+    "name": "Special Purple Bookey",
+    "price": 290,
+    "ratings": 4.8,
+    "img": "./Images/Special-Purple-bookey.jpg",
+    "quantity": 0,
+    "delivery": 20
+  },
+  {
+    "id": 111,
+    "name": "Pink Bookey",
+    "price": 399,
+    "ratings": 4.9,
+    "img": "./Images/Pink-Bookey.jpg",
+    "quantity": 0,
+    "delivery": 30
+  },
+  {
+    "id": 112,
+    "name": "White Rose Bookey",
+    "price": 289,
+    "ratings": 4.7,
+    "img": "./Images/White-Rose-Bookey.jpg",
+    "quantity": 0,
+    "delivery": 20
+  }
+]
