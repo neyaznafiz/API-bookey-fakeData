@@ -103,7 +103,7 @@
       "name": "White Rose Bookey",
       "price": 289,
       "ratings": 4.7,
-      "img": "./Images/White-Rose-Bookey.jpg",
+      "img": "Images/White-Rose-Bookey.jpg",
       "quantity": 0,
       "delivery": 20
     }
