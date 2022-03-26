@@ -1,3 +1,3 @@
-# Bookey Shop API link : 
+# Flower Bookey  
 
-## https://raw.githubusercontent.com/neyaznafiz/Bookey-Shop-Data/main/flowers.json
+## API Link: https://raw.githubusercontent.com/neyaznafiz/Bookey-Shop-Data/main/flowers.json
